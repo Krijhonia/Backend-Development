@@ -1,8 +1,4 @@
 {
-  "dependencies": {
-    "cat-me": "^1.0.3",
-    "express": "^5.2.1"
-  },
   "name": "backend-development",
   "version": "1.0.0",
   "description": "",
@@ -21,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Krijhonia/Backend-Development/issues"
   },
-  "homepage": "https://github.com/Krijhonia/Backend-Development#readme"
+  "homepage": "https://github.com/Krijhonia/Backend-Development#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
