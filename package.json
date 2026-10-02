@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Krijhonia/Backend-Development#readme",
   "dependencies": {
+    "dotenv": "^18.0.5",
     "express": "^5.2.1",
     "mongoose": "^9.10.3"
   }
